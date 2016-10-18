@@ -1,3 +1,4 @@
+
 # Reads a fasta file and prints the sequence to try out. 
 happy
 
