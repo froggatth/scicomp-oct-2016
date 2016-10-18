@@ -1,4 +1,6 @@
 # Reads a fasta file and prints the sequence to try out. 
+happy
+
 import sys
 
 def read_fasta(filename):
